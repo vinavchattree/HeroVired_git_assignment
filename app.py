@@ -10,4 +10,4 @@ print(add(int(a),int(b)))
 print(subtract(int(a),int(b)))
 print("Multiplication coming soon")
 print("Divison coming soon")
-print("Add changes to be stashed")
+print("Add changes to be 
