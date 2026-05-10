@@ -47,6 +47,10 @@ Tasks
    <img width="940" height="56" alt="image" src="https://github.com/user-attachments/assets/1cab2070-1b57-4589-8ece-65628aebd5bc" />
 
  
+      <img width="761" height="136" alt="image" src="https://github.com/user-attachments/assets/6ea51865-feb6-45e3-bf9f-be9cc6e9debe" />
+
+      <img width="841" height="391" alt="image" src="https://github.com/user-attachments/assets/50b3184a-87ab-4b4e-845b-5ccccf5dabd1" />
+
 
 
 9.	Verify the remote configuration
@@ -63,16 +67,6 @@ Tasks
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
 
 Question 2: Working with Changes & History
 Objective
@@ -212,9 +206,7 @@ Tasks
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Question 4: Handling Errors (Stash, Reset, Revert)
